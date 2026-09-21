@@ -1,3 +1,3 @@
 ## CloudWatch Dashboard
 
-![CloudWatch Dashboard](screenshots/dashboard.png)
+![CloudWatch Dashboard](dashboard.png)
