@@ -1,2 +1,3 @@
-# aws-cloudwatch-monitoring-dashboard
-CloudWatch Monitoring Dashboard with EC2 Metrics and SNS Alerts.
+## CloudWatch Dashboard
+
+![CloudWatch Dashboard](screenshots/dashboard.png)
