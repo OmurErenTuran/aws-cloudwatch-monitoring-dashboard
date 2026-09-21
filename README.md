@@ -1,4 +1,9 @@
 ## CloudWatch Dashboard
+![AWS](https://img.shields.io/badge/AWS-CloudWatch-FF9900?logo=amazonaws&logoColor=white)
+![EC2](https://img.shields.io/badge/Amazon-EC2-F58536?logo=amazonec2&logoColor=white)
+![SNS](https://img.shields.io/badge/Amazon-SNS-DD344C?logo=amazonaws&logoColor=white)
+![IAM](https://img.shields.io/badge/AWS-IAM-232F3E?logo=amazonaws&logoColor=white)
+![Monitoring](https://img.shields.io/badge/Monitoring-CloudWatch-blue)
 
 ![CloudWatch Dashboard](dashboard.png)
 
