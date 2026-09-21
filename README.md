@@ -57,4 +57,10 @@ aws-cloudwatch-monitoring-dashboard/
 * CloudWatch Metrics
 * EC2 Monitoring
 * AWS Documentation
+  ## CloudWatch Alarm Triggered
+
+The alarm changes its state to **ALARM** when EC2 CPU utilization stays above **80%** for two consecutive evaluation periods.
+
+![CloudWatch Alarm Triggered](alarm-triggered.png)
+
 
